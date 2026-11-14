@@ -1,6 +1,7 @@
 # Slimey-Hell
 A fun video game to Twist your Head
 Controls:
+/n
 Space to Jump
 A for Left 
 D for Right
